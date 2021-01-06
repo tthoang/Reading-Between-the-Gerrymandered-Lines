@@ -28,7 +28,7 @@ Whether or not people believe the US Census or congressional design is important
 Using demographic data (specifically age, race, education attainment, and sex) and geospatial data to create a dashboard to help people see the weighted value of their vote in their congressional district. 
 
 ## Tableau link
-* https://public.tableau.com/profile/tanya.hoang7442#!/
+* https://public.tableau.com/profile/tthoang#!/
 
 ## Technologies:
 * Python 3
